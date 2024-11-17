@@ -6,22 +6,22 @@
 
 <h2 align='left'> ✨ About Me </h2>
 
-<h3 align='left'> 🎓 Currently I'm pursuing my </h3>
+<h3 align='left'> 🎓 Education </h3>
 <p align="left">
 
-* Bachelor's Degree in [Computer Engineering](https://ftkek.utem.edu.my/index.php/undergraduate-programmes/undergraduate-programmes/bachelor-of-computer-engineering-with-honours) from [Universiti Teknikal Malaysia Melaka](https://www.utem.edu.my/).
+* Graduated with a Bachelor's Degree in [Computer Engineering](https://ftkek.utem.edu.my/index.php/undergraduate-programmes/undergraduate-programmes/bachelor-of-computer-engineering-with-honours) from [Universiti Teknikal Malaysia Melaka (UTeM)](https://www.utem.edu.my/).
 </p>
 
-<h3 align='left'> 💻 I’m currently working as </h3>
+<h3 align='left'> 💻 Work </h3>
 <p align="left">
 
-* Google Developer Student Clubs Lead at [GDSC UTeM](https://gdsc.community.dev/technical-university-of-malaysia-malacca/).
+* Currently a Graduate Talent Software Engineer at [Intel Corporation](https://www.intel.com/).
 </p>
 
-<h3 align='left'> 🌱 I'm currently studying  </h3>
+<h3 align='left'> 🌱 Learning Journey  </h3>
 <p align="left">
 
-* Machine Learning in [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course).
+* Exploring advanced concepts in **Machine Learning** through the [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course).
 </p>
 
 <h3 align='left'> 🚀 My GitHub Stats  </h3>
@@ -38,7 +38,7 @@
 
 * 📝 I regularly write articles on [Medium](https://medium.com/@hanyi00i).
 
-* 💬 Ask me about **Artificial Intelligence and Machine Learning**.
+* 💬 Ask me about **Cloud Computing** and **Artificial Intelligence**.
 
 * 📫 How to reach me **ooidavid10@gmail.com**, **b022010007@student.utem.edu.my**.
 </p>
