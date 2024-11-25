@@ -9,7 +9,7 @@
 <h3 align='left'> 🎓 Education </h3>
 <p align="left">
 
-* Graduated with a Bachelor's Degree in [Computer Engineering](https://ftkek.utem.edu.my/index.php/undergraduate-programmes/undergraduate-programmes/bachelor-of-computer-engineering-with-honours) from [Universiti Teknikal Malaysia Melaka (UTeM)](https://www.utem.edu.my/).
+* Graduated with a Bachelor's Degree in [Computer Engineering with Honours](https://ftkek.utem.edu.my/index.php/undergraduate-programmes/undergraduate-programmes/bachelor-of-computer-engineering-with-honours) from [Universiti Teknikal Malaysia Melaka (UTeM)](https://www.utem.edu.my/).
 </p>
 
 <h3 align='left'> 💻 Work </h3>
