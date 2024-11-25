@@ -40,7 +40,7 @@
 
 * 💬 Ask me about **Cloud Computing** and **Artificial Intelligence**.
 
-* 📫 How to reach me **ooidavid10@gmail.com**, **b022010007@student.utem.edu.my**.
+* 📫 How to reach me **ooidavid10@gmail.com**.
 </p>
 
 <h3 align="left">🫂 Connect with me  </h3>
